@@ -23,3 +23,7 @@
  <a href="https://discord.com/channels/1131978391122362502/1131978392007352423" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victoria.vrsm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+#
+
+![snake gif](https://github.com/ViMonteiro22/ViMonteiro22/blob/output/github-contribution-grid-snake.svg)
