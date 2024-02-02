@@ -1,4 +1,4 @@
-## Oiii, sou a Victória Monteiro! Futura desenvolvedora Full Stack :woman_technologist:
+## Oi, sou a Victória Monteiro! Futura desenvolvedora Full Stack :woman_technologist:
 
 <img align="center" alt="Acenando" height="280" width="280" src="https://cdn.discordapp.com/attachments/833545611080237079/1131960111934492782/giphy.gif">
 
