@@ -1,6 +1,6 @@
 ## Olá, Victoria Monteiro aqui! Futura desenvolvedora Full Stack :woman_technologist:
 
-<img align="center" alt="Acenando" height="280" width="280" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif">
+<img align="center" alt="Codando" height="300" width="450" src="https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif">
 
 #
 
