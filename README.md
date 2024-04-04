@@ -1,6 +1,6 @@
 ## Hi, I'm Victoria Monteiro! Future Full Stack Developer :woman_technologist:
 
-<img align="center" alt="Codando" height="350" width="350" src="https://cdn.discordapp.com/attachments/1131978392007352423/1213689604365090896/giphy.gif?ex=65f66386&is=65e3ee86&hm=206c7d3987bef6ea955e7715024a1865380f3a36c0e7deb35cfc64ac7e8b3b82&">
+<img align="center" alt="Codando" height="300" width="300" src="https://media.discordapp.net/attachments/1131978392007352423/1213689604365090896/giphy.gif?ex=661b4d86&is=6608d886&hm=fe28724f7bb9b7fc404e9f49fd56c57bef90d4589b2cc6f489ec8487478faa9a&=&width=400&height=400">
 
 #
 
