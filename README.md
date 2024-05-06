@@ -1,4 +1,4 @@
-## Hi, I'm Victoria Monteiro! Future Full Stack Developer :woman_technologist:
+## Hi, I'm Victoria Monteiro! Future Software Developer :woman_technologist:
 
 <img align="center" alt="Codando" height="300" width="300" src="https://cdn.discordapp.com/attachments/1131978392007352423/1213689604365090896/giphy.gif?ex=6639a006&is=66384e86&hm=cd3e2003222b45264b3a2de3bf13b0996f4edd1812be57d6f3ea905ab2f87129&">
 
