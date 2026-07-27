@@ -1,5 +1,9 @@
 ## Hi, I'm Victoria Monteiro! Future Software Developer :woman_technologist:
 
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1131978392007352423/1213689604365090896/giphy.gif?ex=6a677946&is=6a6627c6&hm=f550eff387fd21822b540d92b309b10dac970ddc7c84d612795dcb57e9f2ba1f&="/>
+</div>
+
 <div>
   <img src="https://cdn.discordapp.com/attachments/1131978392007352423/1213689604365090896/giphy.gif?ex=69f8bb46&is=69f769c6&hm=733bf6d88e21c8b3a65e033d3659882dda6ddab6a9c3b5ad066e8ef1da158ec9&">
 </div>
