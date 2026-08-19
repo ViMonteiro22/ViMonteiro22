@@ -1,6 +1,6 @@
  <div align="center">
   <h1>Olá, eu sou Victória Monteiro! 👋</h1>
-  <p>Futura desenvolvedora apaixonada por tecnologia e em constante evolução.</p>
+  <p>Futura Engenheira de Software.</p>
   </div>
 
 <div align="center">
